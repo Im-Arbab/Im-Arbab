@@ -69,19 +69,6 @@ Frontend-focused developer building delightful, accessible web apps.
 
 ---
 
-## Want this to look even more "wow"?
-
-- Replace header.png with an animated GIF (subtle parallax) or an SVG banner. Recommended size: 1200×240.  
-- Use a high-resolution square avatar (1200×1200) uploaded in Settings → Profile.  
-- Add preview images for each repo (880×440 hero images or 320×180 cards) and store them in assets/.  
-- Pin the featured repos on your profile (Customize your pins → choose those repositories).
-
----
-
-### Assets to add (place in repo/assets/)
-- header.png — banner (1200×240) or header.gif  
-- avatar-circle.png — square avatar (1200×1200) or your uploaded profile avatar  
-- lappyshop.png, khaas-collection.png, licentrix.png — preview images for featured projects (880×440 recommended)
 
 ---
 
