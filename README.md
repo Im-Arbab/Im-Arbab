@@ -12,8 +12,8 @@
 
 Frontend-focused developer building delightful, accessible web apps.
 
-- 🔭 Live: LappyShop, Square-Assets
-- 🌱 Learning: advanced React patterns & mern stack 
+- 🔭 Live: LappyShop, Square-Assets  
+- 🌱 Learning: advanced React patterns & MERN stack  
 - 💬 Ask me about JavaScript, UI design, and performance  
 - 📫 arbabahmadkhan9@gmail.com
 
@@ -26,7 +26,8 @@ Frontend-focused developer building delightful, accessible web apps.
     <img src="./assets/lappyshop.png" alt="LappyShop" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
   <a href="https://github.com/Im-Arbab/Square-assets" title="Square-Assets">
-    <img src="./assets/square.png" alt="Square-Assets" widht="320" style="border-radius:10px; margin-right:12px" />
+    <img src="./assets/square.png" alt="Square-Assets" width="320" style="border-radius:10px; margin-right:12px"/>
+  </a>
   <a href="https://github.com/Im-Arbab/khaas-collection" title="khaas-collection">
     <img src="./assets/khaas-collection.png" alt="Khaas Collection" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
@@ -66,9 +67,6 @@ Frontend-focused developer building delightful, accessible web apps.
   &nbsp;
   <img src="https://github-contribution-stats.vercel.app/api/?username=Im-Arbab&theme=dark" alt="Contributions" />
 </p>
-
----
-
 
 ---
 
