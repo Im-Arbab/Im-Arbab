@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arbab Khan — Im-Arbab
+# 👋 Hi, I’m Arbab Ahmad Khan — Im-Arbab
 
 <p align="left">
   <img src="./assets/header.png" alt="header" width="100%" style="max-height:240px; object-fit:cover; border-radius:8px"/>
@@ -12,8 +12,8 @@
 
 Frontend-focused developer building delightful, accessible web apps.
 
-- 🔭 Currently building: LicenTrix, LappyShop  
-- 🌱 Learning: advanced React patterns & TypeScript  
+- 🔭 Live: LappyShop, Square-Assets
+- 🌱 Learning: advanced React patterns & mern stack 
 - 💬 Ask me about JavaScript, UI design, and performance  
 - 📫 arbabahmadkhan9@gmail.com
 
@@ -25,6 +25,8 @@ Frontend-focused developer building delightful, accessible web apps.
   <a href="https://github.com/Im-Arbab/lappyshop" title="LappyShop">
     <img src="./assets/lappyshop.png" alt="LappyShop" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
+  <a href="https://github.com/Im-Arbab/Square-assets" title="Square-Assets">
+    <img src="./assets/square.png" alt="Square-Assets" widht="320" style="border-radius:10px; margin-right:12px" />
   <a href="https://github.com/Im-Arbab/khaas-collection" title="khaas-collection">
     <img src="./assets/khaas-collection.png" alt="Khaas Collection" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
@@ -46,7 +48,6 @@ Frontend-focused developer building delightful, accessible web apps.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
