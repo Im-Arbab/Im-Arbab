@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Arbab Ahmad Khan — Im-Arbab
 
 <p align="left">
-  <img src="./assets/header.png" alt="header" width="100%" style="max-height:240px; object-fit:cover; border-radius:8px"/>
+  <img src="./prologo/mern.jpg" alt="header" width="100%" style="max-height:240px; object-fit:cover; border-radius:8px"/>
 </p>
 
 <p align="left">
