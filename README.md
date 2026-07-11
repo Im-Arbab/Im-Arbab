@@ -23,13 +23,13 @@ Frontend-focused developer building delightful, accessible web apps.
 
 <p>
   <a href="https://github.com/Im-Arbab/lappyshop" title="LappyShop">
-    <img src="./prologo/lappyshop.png" alt="LappyShop" width="320" style="border-radius:10px; margin-right:12px"/>
+    <img src="./prologo/lappy.jpeg" alt="LappyShop" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
   <a href="https://github.com/Im-Arbab/Square-assets" title="Square-Assets">
-    <img src="./prologo/square.png" alt="Square-Assets" width="320" style="border-radius:10px; margin-right:12px"/>
+    <img src="./prologo/logoo.png" alt="Square-Assets" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
   <a href="https://github.com/Im-Arbab/khaas-collection" title="khaas-collection">
-    <img src="./prologo/khaas-collection.png" alt="Khaas Collection" width="320" style="border-radius:10px; margin-right:12px"/>
+    <img src="./prologo/khaas-logo.png" alt="Khaas Collection" width="320" style="border-radius:10px; margin-right:12px"/>
   </a>
   <a href="https://github.com/Im-Arbab/LicenTrix" title="LicenTrix">
     <img src="./assets/licentrix.png" alt="LicenTrix" width="320" style="border-radius:10px"/>
