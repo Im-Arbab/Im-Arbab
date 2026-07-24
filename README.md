@@ -37,7 +37,7 @@ Frontend-focused developer building delightful, accessible web apps.
 </p>
 
 ### Quick links
-- Demo / Live: https://arbabahmedkhan-portfolio.netlify.app/  
+- Portfolio / Live: https://arbabahmedkhan-portfolio.netlify.app/  
 - LinkedIn: https://www.linkedin.com/in/arbab-ahmad-khan
 
 ---
