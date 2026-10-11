@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/Im-Arbab.png" alt="Arbab Khan" width="150" style="border-radius:50%; border:8px solid #0b1220; box-shadow:0 8px 30px rgba(0,0,0,0.6)"/>
+  <img src="https://github.com/pass.png" alt="Arbab Khan" width="150" style="border-radius:50%; border:8px solid #0b1220; box-shadow:0 8px 30px rgba(0,0,0,0.6)"/>
 </p>
 
 ## Arbab Ahmad Khan (Im-Arbab)
