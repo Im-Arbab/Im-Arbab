@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/passs.png" alt="Arbab Khan" width="150" style="border-radius:50%; border:8px solid #0b1220; box-shadow:0 8px 30px rgba(0,0,0,0.6)"/>
+  <img src="./prologo/passs.png" alt="Arbab Khan" width="150" style="border-radius:50%; border:8px solid #0b1220; box-shadow:0 8px 30px rgba(0,0,0,0.6)"/>
 </p>
 
 ## Arbab Ahmad Khan (Im-Arbab)
