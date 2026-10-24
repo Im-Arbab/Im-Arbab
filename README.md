@@ -13,7 +13,7 @@
 Frontend-focused developer building delightful, accessible web apps.
 
 - 🔭 Live: LappyShop, Square-Assets, NorthStar CRM 
-- 🌱 Learning: advanced React patterns, React Native & MERN stack  
+- 🌱 Learning: advanced React patterns & MERN stack  
 - 💬 Ask me about JavaScript, UI design, and performance  
 - 📫 arbabahmadkhan9@gmail.com
 
