@@ -74,4 +74,4 @@ Frontend-focused developer building delightful, accessible web apps.
 
 ---
 
-_Last updated: July 2026_
+_Last updated: Nov 2026_
